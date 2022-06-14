@@ -1,0 +1,14 @@
+{
+  "name": "aip-toolkit",
+  "version": "0.1.6",
+  "license": "MIT",
+  "bin": "./index.js",
+  "author": "Sunny <tufeiping@hotmail.com>",
+  "dependencies": {
+    "cross-spawn": "^6.0.5",
+    "file-loader": "^2.0.0",
+    "url-loader": "^1.1.1",
+    "download-git-repo": "^3.0.2",
+    "commander": "2.17.1"
+  }
+}
