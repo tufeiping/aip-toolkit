@@ -1,6 +1,6 @@
 {
   "name": "aip-toolkit",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "license": "MIT",
   "bin": "./index.js",
   "author": "Sunny <tufeiping@hotmail.com>",
